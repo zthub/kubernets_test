@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/coredns:lasted
+FROM gcr.io/google-containers/coredns
